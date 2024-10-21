@@ -4,7 +4,8 @@
   "description": "ctating a project for homework",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "parcel index.html"
   },
   "author": "Mikhail Sidorov",
   "license": "ISC",
